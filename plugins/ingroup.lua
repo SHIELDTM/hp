@@ -1959,7 +1959,7 @@ return {
   "^[!/](newlink)$",
   "^[!/](linkpv)$",
   "^[!/](link)$",
-  "^[!/](deleteowner)$,
+  "^[!/](deleteowner)$",
   "^[!/](kickinactive)$",
   "^[!/](kickinactive) (%d+)$",
   "%[(photo)%]",
