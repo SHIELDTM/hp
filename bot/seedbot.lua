@@ -246,7 +246,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {140925196,155669054,181803152,tonumber(our_id)},--Sudo users
+    sudo_users = {140925196,155669054,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Ultra bot anti spam  V1.0
@@ -254,7 +254,6 @@ An advance Administration bot based on @Teleseed/telegram-bot
 
 @UB_redteam      "^[Ss](udo)$"
 @S1KT1R          "^[Ss](ponser)$"
-@parhambadboy    "^[Mm](anager)$"
 tnks to my admins
 
 
